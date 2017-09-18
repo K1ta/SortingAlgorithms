@@ -1,5 +1,5 @@
 My implementation of different sorting algorithms.
--QuickSort
--BubbleSort
--SelectionSort
--InsertionSort
+<br>-QuickSort
+<br>-BubbleSort
+<br>-SelectionSort
+<br>-InsertionSort
